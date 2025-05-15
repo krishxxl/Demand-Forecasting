@@ -1,0 +1,17 @@
+demand_forecasting_project/
+│
+├── data/
+│   └── sales.csv                  # Generated sales data
+│
+├── model/
+│   └── prophet_model.pkl          # Saved Prophet model (optional)
+│
+├── app/
+│   └── streamlit_app.py           # Web interface
+│
+├── notebooks/
+│   └── prophet_forecast.ipynb     # Main forecasting notebook
+│
+├── generate_sales_data.py         # Script to generate synthetic data
+└──  requirements.txt               # List of dependencies
+
