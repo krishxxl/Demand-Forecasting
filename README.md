@@ -2,6 +2,7 @@
 A Streamlit-based web application that uses Facebook Prophet for time series forecasting on sales data. It provides interactive visualizations, business insights, anomaly detection, and downloadable forecast reports — all in one place.
 
 🚀 Features
+
 📁 Upload your own CSV with date and sales columns
 📈 Accurate sales forecasting using Prophet (60-day horizon)
 🔍 Anomaly detection on historical sales
